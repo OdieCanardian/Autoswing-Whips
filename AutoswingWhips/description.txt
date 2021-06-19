@@ -1,0 +1,13 @@
+For whatever reason, summoner happens to be the only class in the game that has 0 autoswing weapons. This mod attempts to fix this by giving most whips, the weapon summoners will be using most for self-defense, the property to autoswing without the use of any accessory in the Feral Claws tinker line; now you no longer have to waste an accessory slot!
+
+The following whips are granted the autoswing property so you don't risk wrist inflammation, carpal tunnel, or similar hand-related injuries while playing Terraria's most interesting class(at least according to this mod's developer, anyway):
+
+	• Snapthorn
+	• Spinal Tap
+	• Firecracker
+	• Cool Whip
+	• Durendal
+	• Dark Harvest
+	• Kaleidoscope
+
+The Leather Whip and Morning Star are excluded from this list due to the Leather Whip not being used for long in most playthroughs and the Morning Star's main specialty being knockback.
